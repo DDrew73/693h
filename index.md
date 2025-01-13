@@ -14,26 +14,33 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 
 <img src="readings/reading1/assets/693h_schedule.png" alt="693H Course Schedule" width="600"/>
 
-**Readings:**
+## Readings
+
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. Syllabus](readings/reading1/syllabus.md)                                        | 1/13 |
 |[2. Autonomous Mobile Robots ](readings/reading2/reading2.md)                       | 1/15 |
 
-**Tasks:**
+
+## Tasks
+
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. The FabLab](tasks/task1/task1.md)                                               | 1/13 - 1/17 |
 
-**Slides:**
+## Slides
+
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. Course Intro](slides/pdfs/ece693h_1_courseintro.pdf)                            | 1/13 |
 
-**Assignments:**
+
+## Assignments
+
 |              Name                                                                 | Due Date |
 | :-------                                                                           |:----:|
 |[1. Astound the Class 1](assignments/astoundtheclass/astoundtheclass1.md)           | 1/27 |
+
 
 <!--
 readings
