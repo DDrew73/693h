@@ -24,13 +24,11 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 | :-------                                                                           |:----:|
 |[1. Syllabus](readings/reading1/syllabus.md)                                        | 1/13 |
 |[2. Autonomous Mobile Robots ](readings/reading2/reading2.md)                       | 1/15 |
-|<img width=500/>|<img width=200/>|
 
 <big>**Tasks:**</big>
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. The FabLab](tasks/task1/task1.md)                                               | 1/13 - 1/17 |
-|<img width=500/>|<img width=200/>|
 
 <!--
 |[2. Fusion 360 - MCAD](tasks/task2/task2.md)                                        | 1/20 - 1/27 |
@@ -43,7 +41,6 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. Course Intro](slides/pdfs/ece693h_1_courseintro.pdf)                            | 1/13 |
-|<img width=500/>|<img width=200/>|
 
 <!--
 |[2. Autonomous Mobile Robots ](slides/pdfs/ece693h_2_autonomousmobilerobots.pdf)    | 1/15 |
@@ -53,7 +50,6 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |              Name                                                                 | Due Date |
 | :-------                                                                           |:----:|
 |[1. Astound the Class 1](assignments/astoundtheclass/astoundtheclass1.md)           | 1/27 |
-|<img width=500/>|<img width=200/>|
 
 
 
