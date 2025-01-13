@@ -14,7 +14,7 @@ Paste in the table here.
 
 This schedule is meant to serve as an outline and guide for the course. Please note that it may be modified throughout the semester as we see how things go. Any changes will be announced in class and posted here. 
 
-<img src="readings/reading1/assets/course_schedule.png" alt="693H Course Schedule" width="600"/>
+<img src="readings/reading1/assets/693h_schedule.png" alt="693H Course Schedule" width="600"/>
 
 
 <br>
