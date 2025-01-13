@@ -10,46 +10,38 @@ This 3-credit course will cover fundamental concepts related to the sensing, act
 For more detailed information, please see [the course syllabus](readings/reading1/syllabus.md).
 
 **Schedule:**\
-Paste in the table here. 
-
 This schedule is meant to serve as an outline and guide for the course. Please note that it may be modified throughout the semester as we see how things go. Any changes will be announced in class and posted here. 
 
 <img src="readings/reading1/assets/693h_schedule.png" alt="693H Course Schedule" width="600"/>
 
-
-<br>
-
-<big>**Readings:**</big>
+**Readings:**
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. Syllabus](readings/reading1/syllabus.md)                                        | 1/13 |
 |[2. Autonomous Mobile Robots ](readings/reading2/reading2.md)                       | 1/15 |
 
-<big>**Tasks:**</big>
+**Tasks:**
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. The FabLab](tasks/task1/task1.md)                                               | 1/13 - 1/17 |
 
+**Slides:**
+|              Topic                                                                 | Date |
+| :-------                                                                           |:----:|
+|[1. Course Intro](slides/pdfs/ece693h_1_courseintro.pdf)                            | 1/13 |
+
+**Assignments:**
+|              Name                                                                 | Due Date |
+| :-------                                                                           |:----:|
+|[1. Astound the Class 1](assignments/astoundtheclass/astoundtheclass1.md)           | 1/27 |
+
 <!--
+readings
+|[2. Autonomous Mobile Robots ](slides/pdfs/ece693h_2_autonomousmobilerobots.pdf)    | 1/15 |
+
+tasks
 |[2. Fusion 360 - MCAD](tasks/task2/task2.md)                                        | 1/20 - 1/27 |
 |[3. Fusion 360 - ECAD](readings/reading2/reading2.md)                               | 1/27 - 2/3 |
 |[4. ROS2](readings/reading2/reading2.md)                                            | 2/3 - 2/10|
 |[5. Git and Material for MkDocs](readings/reading2/reading2.md)                     | 2/10 - 2/17|
 -->
-
-<big>**Slides:**</big>
-|              Topic                                                                 | Date |
-| :-------                                                                           |:----:|
-|[1. Course Intro](slides/pdfs/ece693h_1_courseintro.pdf)                            | 1/13 |
-
-<!--
-|[2. Autonomous Mobile Robots ](slides/pdfs/ece693h_2_autonomousmobilerobots.pdf)    | 1/15 |
--->
-
-<big>**Assignments:**</big>
-|              Name                                                                 | Due Date |
-| :-------                                                                           |:----:|
-|[1. Astound the Class 1](assignments/astoundtheclass/astoundtheclass1.md)           | 1/27 |
-
-
-
