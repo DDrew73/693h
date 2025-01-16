@@ -33,7 +33,7 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. Course Intro](slides/pdfs/ece693h_1_courseintro.pdf)                            | 1/13 |
-
+|[2. Autonomous Mobile Robots ](slides/pdfs/ece693h_2_autonomousmobilerobots.pdf)    | 1/15 |
 
 ## Assignments
 
@@ -43,9 +43,6 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 
 
 <!--
-readings
-|[2. Autonomous Mobile Robots ](slides/pdfs/ece693h_2_autonomousmobilerobots.pdf)    | 1/15 |
-
 tasks
 |[2. Fusion 360 - MCAD](tasks/task2/task2.md)                                        | 1/20 - 1/27 |
 |[3. Fusion 360 - ECAD](readings/reading2/reading2.md)                               | 1/27 - 2/3 |
