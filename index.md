@@ -27,6 +27,7 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |              Topic                                                                 | Date |
 | :-------                                                                           |:----:|
 |[1. The FabLab](tasks/task1/task1.md)                                               | 1/13 - 1/17 |
+|[2. Fusion 360 - MCAD](tasks/task2/task2.md)                                        | 1/27 - 2/3  |
 
 ## Slides
 
@@ -34,6 +35,8 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 | :-------                                                                           |:----:|
 |[1. Course Intro](slides/pdfs/ece693h_1_courseintro.pdf)                            | 1/13 |
 |[2. Autonomous Mobile Robots ](slides/pdfs/ece693h_2_autonomousmobilerobots.pdf)    | 1/15 |
+|[3. Action 1 ](slides/pdfs/ece693h_3_action1.pdf)    | 1/22 |
+|[4. Action 2 ](slides/pdfs/ece693h_4_action2.pdf)    | 1/27 |
 
 ## Assignments
 
