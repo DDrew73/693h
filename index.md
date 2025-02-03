@@ -45,6 +45,7 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |              Name                                                                 | Due Date |
 | :-------                                                                           |:----:|
 |[1. Astound the Class 1](assignments/astoundtheclass/astoundtheclass1.md)           | 1/27 |
+|[2. Design Review 1](assignments/designreview/designreview1.md)                     | 2/10 |
 
 
 <!--
