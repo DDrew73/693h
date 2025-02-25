@@ -39,6 +39,8 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |[3. Action 1 ](slides/pdfs/ece693h_3_action1.pdf)                                   | 1/22 |
 |[4. Action 2 ](slides/pdfs/ece693h_4_action2.pdf)                                   | 1/27 |
 |[5. Perception 1 ](slides/pdfs/ece693h_5_perception1.pdf)                           | 1/29 |
+|[5. Perception 2 ](slides/pdfs/ece693h_6_perception2.pdf)                           | 2/03 |
+|[5. Intelligence 1 ](slides/pdfs/ece693h_7_intelligence1.pdf)                       | 2/05 |
 
 ## Assignments
 
@@ -46,7 +48,7 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 | :-------                                                                           |:----:|
 |[1. Astound the Class 1](assignments/astoundtheclass/astoundtheclass1.md)           | 1/27 |
 |[2. Design Review 1](assignments/designreview/designreview1.md)                     | 2/10 |
-
+|[3. Astound the Class 2](assignments/astoundtheclass/astoundtheclass2.md)           | 3/03 |
 
 <!--
 tasks
