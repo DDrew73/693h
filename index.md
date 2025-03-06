@@ -41,6 +41,10 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |[5. Perception 1 ](slides/pdfs/ece693h_5_perception1.pdf)                           | 1/29 |
 |[5. Perception 2 ](slides/pdfs/ece693h_6_perception2.pdf)                           | 2/03 |
 |[5. Intelligence 1 ](slides/pdfs/ece693h_7_intelligence1.pdf)                       | 2/05 |
+|[5. Intelligence 2 ](slides/pdfs/ece693h_8_intelligence2.pdf)                       | 2/24 |
+|[5. Multi-robot Systems 1 ](slides/pdfs/ece693h_9_multirobotsystems1.pdf)           | 2/26 |
+|[5. Multi-robot Systems 2 ](slides/pdfs/ece693h_10_multirobotsystems2.pdf)          | 3/03 |
+|[5. Multi-robot Systems 3](slides/pdfs/ece693h_11_multirobotsystems3.pdf)            | 3/05 |
 
 ## Assignments
 
@@ -49,6 +53,7 @@ This schedule is meant to serve as an outline and guide for the course. Please n
 |[1. Astound the Class 1](assignments/astoundtheclass/astoundtheclass1.md)           | 1/27 |
 |[2. Design Review 1](assignments/designreview/designreview1.md)                     | 2/10 |
 |[3. Astound the Class 2](assignments/astoundtheclass/astoundtheclass2.md)           | 3/03 |
+|[4. Design Review 2](assignments/designreview/designreview2.md)                     | 3/10 |
 
 <!--
 tasks
